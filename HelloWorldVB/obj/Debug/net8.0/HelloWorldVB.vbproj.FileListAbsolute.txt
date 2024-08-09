@@ -1,0 +1,14 @@
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\bin\Debug\net8.0\HelloWorldVB.exe
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\bin\Debug\net8.0\HelloWorldVB.deps.json
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\bin\Debug\net8.0\HelloWorldVB.runtimeconfig.json
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\bin\Debug\net8.0\HelloWorldVB.dll
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\bin\Debug\net8.0\HelloWorldVB.pdb
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\obj\Debug\net8.0\HelloWorldVB.GeneratedMSBuildEditorConfig.editorconfig
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\obj\Debug\net8.0\HelloWorldVB.AssemblyInfoInputs.cache
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\obj\Debug\net8.0\HelloWorldVB.AssemblyInfo.vb
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\obj\Debug\net8.0\HelloWorldVB.vbproj.CoreCompileInputs.cache
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\obj\Debug\net8.0\HelloWorldVB.dll
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\obj\Debug\net8.0\refint\HelloWorldVB.dll
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\obj\Debug\net8.0\HelloWorldVB.pdb
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\obj\Debug\net8.0\HelloWorldVB.genruntimeconfig.cache
+D:\luker\source\repos\HelloWorldVB\HelloWorldVB\obj\Debug\net8.0\ref\HelloWorldVB.dll
